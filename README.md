@@ -177,7 +177,16 @@ Movie duration decreases by about **0.6 minutes per year**, although the relatio
 ---
 
 # Author
-
+```
 Mohammad Saiful Alam
-M.Sc. in Data Science & Machine Learning
-Research Officer, Bangladesh Forest Research Institute
+
+M.Sc. in Data Science & Machine Learning (Ongoing)
+State University of Bangladesh
+
+M.S. in Statistics
+B.Sc. in Statistics
+University of Chittagong
+
+Research Officer
+Bangladesh Forest Research Institute (BFRI)
+```
