@@ -8,7 +8,6 @@ The analysis applies several statistical techniques including **descriptive stat
 
 This project demonstrates practical skills in **Python, statistics, and data analysis**, which are essential for data science and analytics roles.
 
----
 
 # Dataset
 
@@ -23,7 +22,6 @@ Main variables used in this analysis include:
 * Rating
 * Genre
 
----
 
 # Tools and Libraries
 
@@ -36,7 +34,6 @@ The analysis was performed using Python and the following libraries:
 * SciPy
 * Statsmodels
 
----
 
 # Project Structure
 
@@ -56,13 +53,11 @@ netflix-statistical-analysis
 └── README.md
 ```
 
----
 
 # Data Preparation
 
 Movie durations were cleaned and converted into numeric format for statistical analysis. Missing or invalid values were handled appropriately before performing the analysis.
 
----
 
 # Descriptive Statistics
 
@@ -78,7 +73,6 @@ Key statistics for movie duration:
 
 Most Netflix movies fall between **87 and 114 minutes**.
 
----
 
 # Hypothesis Testing
 
@@ -101,7 +95,6 @@ Conclusion:
 Since p > 0.05, we **fail to reject the null hypothesis**.
 There is **no significant difference** between the average Netflix movie duration and 100 minutes.
 
----
 
 # Correlation Analysis
 
@@ -111,7 +104,6 @@ The correlation between **release year and movie duration** is:
 
 This indicates a **weak negative relationship**, meaning newer movies tend to be slightly shorter.
 
----
 
 # Confidence Interval
 
@@ -121,7 +113,6 @@ The **95% confidence interval** for the true average movie duration is:
 
 This confirms that the average movie duration is approximately **100 minutes**.
 
----
 
 # Regression Analysis
 
@@ -140,7 +131,6 @@ Interpretation:
 
 Movie duration decreases by about **0.6 minutes per year**, although the relationship is relatively weak.
 
----
 
 # Key Insights
 
@@ -149,6 +139,7 @@ Movie duration decreases by about **0.6 minutes per year**, although the relatio
 * There is **no significant difference** from the 100-minute industry standard
 * Newer movies tend to be **slightly shorter**
 * The relationship between release year and duration is **weak but negative**
+* Regression confirms a small decreasing trend over time
 
 ---
 
